@@ -36,5 +36,5 @@ A professional Python tool for automated road network segmentation using ArcPy. 
 
 ### Installation
 ```bash
-git clone https://github.com/Samani9090/Road-Segmentation-ArcPy.git
+git clone https://github.com/samani9090/Road-Segmentation-ArcPy.git
 cd Road-Segmentation-ArcPy
