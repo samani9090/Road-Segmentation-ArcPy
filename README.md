@@ -1,10 +1,7 @@
 # Road-Segmentation-ArcPy
 Python tool for splitting road networks into equal segments using ArcPy and UTM projection
 # 🛣️ Road Segmentation with ArcPy
-![Python](https://img.shields.io/badge/Python-3.8%2B-green)
-![ArcGIS](https://img.shields.io/badge/ArcGIS%20Pro-Required-blue)
-![License](https://img.shields.io/badge/License-MIT-yellow)
-![Status](https://img.shields.io/badge/Status-Production%20Ready-success)
+
 ![Python](https://img.shields.io/badge/Python-3.8%2B-green)
 ![ArcGIS](https://img.shields.io/badge/ArcGIS%20Pro-Required-blue)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
